@@ -9,3 +9,14 @@ C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Conso
 C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
 C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
 C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
+E:\workspace\git_demo\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+E:\workspace\git_demo\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+E:\workspace\git_demo\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+E:\workspace\git_demo\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+E:\workspace\git_demo\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+E:\workspace\git_demo\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojAssemblyReference.cache
+E:\workspace\git_demo\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\workspace\git_demo\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\workspace\git_demo\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+E:\workspace\git_demo\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+E:\workspace\git_demo\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
