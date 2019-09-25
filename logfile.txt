@@ -1,3 +1,4 @@
 new log
 new log2
 new log3
+new log4
